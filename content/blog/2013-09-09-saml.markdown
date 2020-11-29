@@ -6,4 +6,4 @@ author: oli
 image: "/images/blog/saml.jpg"
 tags: ["mysql", "2013"]
 ---
-Here’s [Sam Lambert](https://twitter.com/isamlambert) of [Github](http://wwww.github.com), mysql genius and long term proponent of “enough cushions will make this ergonomic” technique. 
+Here’s [Sam Lambert](https://twitter.com/isamlambert) of [Github](https://github.com), mysql genius and long term proponent of “enough cushions will make this ergonomic” technique. 
