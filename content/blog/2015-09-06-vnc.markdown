@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "VNC"
+date:   2015-09-06 17:51:00
+author: oli
+image: "/images/blog/vnc.jpg"
+tags: ["vnc", "2015"]
+---
+Because VNC is for the weak

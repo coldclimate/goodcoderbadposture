@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Nabil"
+date:   2013-03-03 17:51:00
+author: oli
+image: "/images/blog/nabil.jpg"
+tags: ["javascript", "2013"]
+---
+
+This is the rather excellent Nabil from [MatchChat](https://www.matchchat.co.uk/); good coder, bad posture

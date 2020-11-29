@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Phil Poots"
+date:   2014-04-14 17:51:00
+author: oli
+image: "/images/blog/poots.jpg"
+tags: ["ruby", "2014"]
+---
+This is the mighty Phil Poots of Givey.com, showing that even Ruby professionals get their object orientation wrong.

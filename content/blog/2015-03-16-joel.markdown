@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Joel Reiser"
+date:   2015-03-16 17:51:00
+author: oli
+image: "/images/blog/joelr.jpg"
+tags: ["project management", "2015"]
+---
+Poor posture isn’t just limited to coders, all the IT work can get involved!  Here we see Joel Reiser, project manager and all round top chap.  In his own words.. 
+
+“Not sure you can tell from the picture, but I’m sitting on my knees with my arms over the back of my steno desk chair.  I don’t do this too often, but I do it more often than I should…”
+
+That’s right, kneeing, facing backwards, spine at a jaunty angle, everybody an make this work for them

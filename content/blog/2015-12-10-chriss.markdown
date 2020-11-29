@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Chris Stainthorpe"
+date:   2015-12-10 17:51:00
+author: oli
+image: "/images/blog/chriss.jpg"
+tags: ["ruby", "2015"]
+---
+At first glance this seems like a very reasonable upright position, until you notice the angle of the floor and that plant.  That’s right, here’s [Chris Stainthorpe](https://twitter.com/skipchris) working in the “linear [Nabil](/blog/2013-03-03-nabil/)” position.  Chris loves Ruby and co-founded the excellent [CustomerSure](https://www.customersure.com/)

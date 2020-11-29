@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Phil Sturgeon"
+date:   2013-03-15 17:51:00
+author: oli
+image: "/images/blog/Steve.jpg"
+tags: ["javascript", "2013"]
+---
+JavaScript junkie (and secret Java junkie) Steve from CANDDi is seen here working in the “knee to chin” pose, a classic of the young and flexible

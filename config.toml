@@ -1,0 +1,46 @@
+baseURL = ""
+languageCode = "en-gb"
+title = "Good Coder Bad Posture (dot) Com"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "Good Coder Bad Posture (dot) Com"
+enableEmoji = true
+publishDir = "docs"
+#disqusShortname = "your-shortname-here"
+#googleAnalytics = "UA-46298735-1"
+
+[params]
+  logo = "/images/logo.jpg"
+  description ="Object orientation (of the spine)"
+  #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+  name = "Oli"
+  thumbnail = "/images/author.jpg"
+  description = "Resident eejit.  Collapsed a disc in my spine in my 20s"
+
+[params.index]
+  picture = "/images/author.png"
+  title = "John Doe"
+  subtitle = "I'm a unique placeholder. Working here and there!"
+  mdtext = '''
+Currently trying to get this blog running, still don't know what the blog will be about!\
+**This textblock is a demonstration of the mdtext-param.**\
+### This is a markdown heading
+'''
+  alertbar = false
+
+[params.social]
+  #github = "<username>"
+  #linkedin = "<username>"
+  #xing = "<username>"
+  #medium = "<username>"
+  #twitter = "<username>"
+  instagram = "omnomfrickinnom"
+
+# Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Adam Georgeson"
+date:   2015-10-16 17:51:00
+author: oli
+image: "/images/blog/adamg.jpg"
+tags: ["ruby", "2015"]
+---
+Devs kneeling at desks is a common enough sight but Devs Squatting On The Floor is something else.  Here we see Adam Georgeson ([@adamgeorgeson](http://www.twitter.com/adamgeorgeson)) doing a bit of frantic Googling, probably about Ruby which is his bag.

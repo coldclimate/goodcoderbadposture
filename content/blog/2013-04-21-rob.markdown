@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Rob Hawkes"
+date:   2013-04-21 17:51:00
+author: oli
+image: "/images/blog/robh.jpg"
+tags: ["javascript", "2013"]
+---
+This is the amazing [@robhawkes](https://twitter.com/robhawkes) Javascript genius and all round nice fella.  Spotted here working at [DIBI Conference](https://dibiconference.com/), sporting the “travelling coder curved spine”

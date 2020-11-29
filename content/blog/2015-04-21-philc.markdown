@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Phil Chowaniec"
+date:   2015-04-21 17:51:00
+author: oli
+image: "/images/blog/philc.jpg"
+tags: ["outreach", "2015"]
+---
+Oh conferences, you posture mutilating buggers.  Look what you’ve done to Phil Chowaniec’s from Lookers spine!

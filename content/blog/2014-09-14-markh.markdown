@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Mark Hemming"
+date:   2014-09-14 17:51:00
+author: oli
+image: "/images/blog/markh.jpg"
+tags: ["php", "2014"]
+---
+Here we see [Mark Hemmings](http://twitter.com/mhemmings), who joined us as a summer intern, being almost 14 feet 3 inches tall we didnt get him a raised desk or proper chair preferring to see him using the tried and tested wall'n'knee combo.
+
+For the record Mark remains the more talented student programmer I’ve ever worked with by a country mile.

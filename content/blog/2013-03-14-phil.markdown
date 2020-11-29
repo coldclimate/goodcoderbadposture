@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Phil Sturgeon"
+date:   2013-03-14 17:51:00
+author: oli
+image: "/images/blog/phils.jpg"
+tags: ["php", "2013"]
+---
+
+PHP boy de jour, it’s Phil Sturgeon, here demonstration the “drop shoulder slouch”
