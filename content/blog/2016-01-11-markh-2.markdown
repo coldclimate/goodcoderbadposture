@@ -3,7 +3,7 @@ layout: post
 title:  "Eryk Napierala"
 date:   2024-09-01 17:51:00
 author: oli
-image: "/images/blog/eryk.jpg.jpg"
+image: "/images/blog/markh2.jpg"
 tags: ["python", "2024"]
 ---
 After an 8 year break when I spotted this today I couldn't help but resurect this blog.  Here's Eryk, working hard whilst also making sure his cats are well served like a good cat father.
