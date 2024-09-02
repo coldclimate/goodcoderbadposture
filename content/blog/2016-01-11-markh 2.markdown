@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Mark Hemming II"
-date:   2016-01-11 17:51:00
-author: oli
-image: "/images/blog/markh2.jpg"
-tags: ["go", "2016"]
----
-Yes it’s [Mark Hemmings](http://twitter.com/mhemmings) for the 2nd time!  These days mark has swapped his patented wall lean slouch for a sofa slouch, as well as trading JavaScript for Go at [FitGurus](https://gymplanapp.com/)
