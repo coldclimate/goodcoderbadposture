@@ -2,7 +2,7 @@ name: master_push
 on:
   push:
     branches:
-      - 'master'
+      - 'main'
 jobs:
   build_test_deploy:
     runs-on: ubuntu-latest
